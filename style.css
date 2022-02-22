@@ -1,0 +1,17 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    main{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        background: radial-gradient(859px, rgb(233, 166, 250) , rgb(238, 69, 229) );
+    }
+    h1{
+        color: rgb(168, 12, 240);
+    font-size: 64px;
+    font-style: italic
+    }
